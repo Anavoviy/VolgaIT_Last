@@ -13,3 +13,6 @@
 
 ## URL: http://localhost:80/swagger/index.html   - Swagger
 ## URL: http://localhost:5050/browser/           - PgAdmin
+
+Если нужен проект не архивом, а просто ссылкой на GitHub:
+https://github.com/Anavoviy/VolgaIT
