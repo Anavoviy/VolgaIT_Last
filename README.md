@@ -11,8 +11,8 @@
 5) Прописываем команду docker-compose up
 6) Ждём поочерёдного поднятия PostgreSQL, WEB-API, PgAdmin
 
-Пользователь Admin: 
-# Логин и пароль - admin
+#Пользователь Admin: 
+Логин и пароль - admin
 ## URL: http://localhost:80/swagger/index.html   - Swagger
 ## URL: http://localhost:5050/browser/           - PgAdmin
 
